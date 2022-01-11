@@ -1,0 +1,6 @@
+server:
+    port: 8899
+    
+service:
+    data:
+        host: https://reqres.in/api/users
